@@ -1,0 +1,7 @@
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\bin\Debug\EP2-VenegasMedinaJoseAlfredo.exe.config
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\bin\Debug\EP2-VenegasMedinaJoseAlfredo.exe
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\bin\Debug\EP2-VenegasMedinaJoseAlfredo.pdb
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\obj\Debug\PE2-VenegasMedinaJoseAlfredo.csprojResolveAssemblyReference.cache
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\obj\Debug\PE2-VenegasMedinaJoseAlfredo.csproj.CoreCompileInputs.cache
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\obj\Debug\EP2-VenegasMedinaJoseAlfredo.exe
+C:\Users\PIMPO\source\repos\EP2-VenegasMedinaJoseAlfredo\EP2-VenegasMedinaJoseAlfredo\obj\Debug\EP2-VenegasMedinaJoseAlfredo.pdb
